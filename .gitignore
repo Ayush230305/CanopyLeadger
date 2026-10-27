@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+dist/
+frontend/dist/
+build/
+
+# Python virtual environments
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local runtime data and generated results
+uploads/
+backend/uploads/
+results/
+backend/results/
+
+# Local Vercel settings
+.vercel/
+
+# Local databases (keep migrations and schema files)
+*.sqlite
+*.sqlite3
+*.db

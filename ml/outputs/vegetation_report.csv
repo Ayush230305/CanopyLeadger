@@ -1,0 +1,10 @@
+image,width,height,total_pixels,vegetation_pixels,vegetation_coverage_percent,method,status
+tree1.jpg,678,452,306456,162337,52.97,HSV green-pixel thresholding,success
+tree2.jpeg,659,465,306435,301959,98.54,HSV green-pixel thresholding,success
+tree3.jpeg,588,330,194040,112870,58.17,HSV green-pixel thresholding,success
+tree4.jpeg,299,168,50232,48183,95.92,HSV green-pixel thresholding,success
+tree5.jpeg,612,381,233172,203148,87.12,HSV green-pixel thresholding,success
+tree6.jpeg,588,330,194040,148008,76.28,HSV green-pixel thresholding,success
+tree7.jpeg,768,432,331776,260993,78.67,HSV green-pixel thresholding,success
+tree8.jpeg,500,281,140500,108270,77.06,HSV green-pixel thresholding,success
+tree9.jpeg,334,598,199732,187360,93.81,HSV green-pixel thresholding,success

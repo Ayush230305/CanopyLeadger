@@ -1,0 +1,10 @@
+image,predicted_tree_count,mean_confidence,annotated_image,status
+tree1.jpg,66,0.3794506788253784,annotated_tree1.jpg,success
+tree2.jpeg,90,0.44534894824028015,annotated_tree2.jpg,success
+tree3.jpeg,98,0.3851949870586395,annotated_tree3.jpg,success
+tree4.jpeg,90,0.2905140519142151,annotated_tree4.jpg,success
+tree5.jpeg,76,0.380872517824173,annotated_tree5.jpg,success
+tree6.jpeg,89,0.3538225293159485,annotated_tree6.jpg,success
+tree7.jpeg,67,0.2552298903465271,annotated_tree7.jpg,success
+tree8.jpeg,71,0.3491297662258148,annotated_tree8.jpg,success
+tree9.jpeg,90,0.3307064175605774,annotated_tree9.jpg,success
