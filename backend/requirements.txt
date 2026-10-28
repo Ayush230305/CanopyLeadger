@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+numpy
+pandas
+Pillow
+opencv-python-headless
+ultralytics
+torch
+torchvision
+deepforest
+requests
+python-dotenv
+scikit-learn
